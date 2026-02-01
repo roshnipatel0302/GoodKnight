@@ -7,6 +7,10 @@ export const metadata: Metadata = {
   title: 'Good Knight - Sleep Peacefully, Stay Protected',
   description: 'Trusted mosquito protection for your family. Safe, effective, and long-lasting solutions.',
   keywords: 'mosquito repellent, mosquito protection, Good Knight, family safety',
+  icons: {
+    icon: '/favicon.svg',
+    apple: '/favicon.svg'
+  }
 }
 
 export default function RootLayout({
