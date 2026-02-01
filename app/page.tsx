@@ -2,7 +2,7 @@ import HeroSection from '@/components/HeroSection'
 import FeatureCard from '@/components/FeatureCard'
 import ProductCard from '@/components/ProductCard'
 import TestimonialCard from '@/components/TestimonialCard'
-import { features, products, testimonials, whyChooseUs } from '@/lib/data'
+import { features, products, testimonials, whyChooseUs } from '@/lib/data.tsx'
 import Link from 'next/link'
 
 export default function Home() {

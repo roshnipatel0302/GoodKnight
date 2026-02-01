@@ -1,2 +1,4 @@
-// Re-export the real data from `data.tsx` so imports using '@/lib/data' keep working.
-export * from './data.tsx';
+// Deprecated duplicate file — the canonical source is `lib/data.tsx`.
+// To avoid accidental usage in builds, this file is now a no-op placeholder.
+
+export {};

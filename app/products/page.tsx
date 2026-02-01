@@ -1,5 +1,5 @@
 import ProductCard from '@/components/ProductCard'
-import { products } from '@/lib/data'
+import { products } from '@/lib/data.tsx'
 
 export const metadata = {
   title: 'Our Products - Good Knight',

@@ -1,4 +1,4 @@
-import { safetyTips } from '@/lib/data'
+import { safetyTips } from '@/lib/data.tsx'
 
 export const metadata = {
   title: 'Safety Tips - Good Knight',
